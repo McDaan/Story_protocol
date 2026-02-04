@@ -719,7 +719,7 @@
     "rpc": "https://rpc.story.cumulo.me",
     "grpc": "grpc.story.cumulo.me",
     "evm": "https://evm.story.cumulo.me",
-    "snapshot": "",
+    "snapshot": "https://cumulo.pro/services/story/snapshot",
     "addrbook": "",
     "tools_url": {
       "Story Metrics and Grafana Dashboard": "https://github.com/Cumulo-pro/Story_protocol/blob/main/monitoring/",
