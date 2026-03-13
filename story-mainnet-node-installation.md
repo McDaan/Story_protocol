@@ -89,7 +89,7 @@ cd $HOME
 rm -rf story
 git clone https://github.com/piplabs/story
 cd story
-git checkout v1.4.2
+git checkout v1.5.2
 go build -o story ./client
 mv $HOME/story/story $HOME/go/bin/
 ```
@@ -98,7 +98,7 @@ Verify:
 
 ```bash
 story version
-# Version v1.4.2-stable
+# Version v1.5.2-stable
 ```
 
 ---
